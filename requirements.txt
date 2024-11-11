@@ -1,0 +1,6 @@
+certifi==2024.8.30
+elastic-transport==8.15.1
+elasticsearch==8.15.1
+smart-open==7.0.5
+urllib3==2.2.3
+wrapt==1.16.0
