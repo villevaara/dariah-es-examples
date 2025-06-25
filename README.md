@@ -8,7 +8,7 @@ The scrips have been written for Python 3. `requirements.txt` has the required l
 
 ## Usage
 
-See the video at https://www.dariah.fi/subsetting-tool/ on how to integrate the scripts here with the Kibana GUI.
+See the video at [https://www.dariah.fi/subsetting-tool/](https://www.youtube.com/watch?v=EVe5ZUo8tOM) on how to integrate the scripts here with the Kibana GUI.
 
 The basic workflow is:
 1. Use Kibana's Discover-view to work out a subset of the data you want to query with the API. 
